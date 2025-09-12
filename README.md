@@ -2,19 +2,8 @@
 
 <p id="description">This project focuses on analyzing and visualizing key business KPIs for the hospitality industry. The dataset includes hotel bookings rooms and other related dimensions which were cleaned transformed and visualized to build an interactive Power BI dashboard.</p>
 
-<h2>📂 Repository Structure</h2>
-├── Hospitality dashboard.pbix          # Power BI Dashboard file
-├── dim_date.csv                        # Date dimension
-├── dim_hotels.csv                      # Hotel details
-├── dim_rooms.csv                       # Room details
-├── fact_aggregated_bookings.csv        # Aggregated bookings data
-├── fact_bookings.csv                   # Detailed bookings data
-├── meta_data_hospitality.txt           # Metadata about the dataset
-├── metrics_list.xlsx                   # Business metrics definitions
-
 <h2>🎯 Project Objective </h2>
-
-* The goal of this project is to:
+The goal of this project is to:
 
 * Analyze hotel performance across multiple KPIs.
 
@@ -55,7 +44,7 @@ Some of the important metrics analyzed include:
 
 * Revenue and occupancy performance by hotel type.
 
-<h2>📸 Dashboard Preview</h2>h2>
+<h2>📸 Dashboard Preview</h2>
 
 [Dashboard Preview](screenshot.png)
 
