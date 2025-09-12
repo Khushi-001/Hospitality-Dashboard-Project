@@ -1,9 +1,8 @@
-**
-🏨Atliq Hospitality Dashboard
-**
-This project focuses on analyzing and visualizing key business KPIs for the hospitality industry. The dataset includes hotel bookings, rooms, and other related dimensions, which were cleaned, transformed, and visualized to build an interactive Power BI dashboard.
+<h1 align="center" id="title">Atliq Hospitality Dashboard</h1>
 
-📂 **Repository Structure**
+<p id="description">This project focuses on analyzing and visualizing key business KPIs for the hospitality industry. The dataset includes hotel bookings rooms and other related dimensions which were cleaned transformed and visualized to build an interactive Power BI dashboard.</p>
+
+<h2>📂 **Repository Structure**</h2>
 ├── Hospitality dashboard.pbix          # Power BI Dashboard file
 ├── dim_date.csv                        # Date dimension
 ├── dim_hotels.csv                      # Hotel details
@@ -13,58 +12,57 @@ This project focuses on analyzing and visualizing key business KPIs for the hosp
 ├── meta_data_hospitality.txt           # Metadata about the dataset
 ├── metrics_list.xlsx                   # Business metrics definitions
 
-🎯 **Project Objective**
+<h2>🎯 Project Objective </h2>
 
-- The goal of this project is to:
+* The goal of this project is to:
 
-- Analyze hotel performance across multiple KPIs.
+* Analyze hotel performance across multiple KPIs.
 
-- Understand booking trends, occupancy, and revenue patterns.
+* Understand booking trends, occupancy, and revenue patterns.
 
-- Provide actionable insights through an interactive Power BI dashboard.
+* Provide actionable insights through an interactive Power BI dashboard.
 
-🛠 **Tools & Technologies**
+<h2>🛠 Tools & Technologies</h2>
 
-Power BI – Data modeling, DAX calculations, and dashboard creation.
+* Power BI – Data modeling, DAX calculations, and dashboard creation.
 
-Excel – Initial data checks and metric preparation.
+* SQL – Initial data checks and metric preparation.
 
-CSV Files – Source data for analysis.
+* CSV Files – Source data for analysis.
 
-📊 **Key Metrics
-**
+<h2>📊 Key Metrics</h2>
 Some of the important metrics analyzed include:
 
-Total Bookings
+* Total Bookings
 
-Revenue Generated
+* Revenue Generated
 
-Occupancy Rate
+* Occupancy Rate
 
-Average Daily Rate (ADR)
+* Average Daily Rate (ADR)
 
-RevPAR (Revenue per Available Room)
+* RevPAR (Revenue per Available Room)
 
-Booking Cancellations & Trends
+* Booking Cancellations & Trends
 
-🚀 **Insights & Features**
+<h2>🚀 **Insights & Features**</h2>
 
-Interactive slicers for hotel, city, and time period selection.
+* Interactive slicers for hotel, city, and time period selection.
 
-Comparison of booking channels and room categories.
+* Comparison of booking channels and room categories.
 
-Seasonal and time-series booking trends.
+* Seasonal and time-series booking trends.
 
-Revenue and occupancy performance by hotel type.
+* Revenue and occupancy performance by hotel type.
 
-📸 **Dashboard Preview**
+<h2>📸 **Dashboard Preview**</h2>h2>
 
 [Dashboard Preview](screenshot.png)
 
-**📑 How to Use**
+<h2>**📑 How to Use**</h2>
 
-Download the repository files.
+* Download the repository files.
 
-Open Hospitality dashboard.pbix in Power BI Desktop.
+* Open Hospitality dashboard.pbix in Power BI Desktop.
 
-Explore interactive visuals to derive insights.
+* Explore interactive visuals to derive insights.
