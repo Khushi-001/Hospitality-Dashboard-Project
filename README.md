@@ -3,7 +3,7 @@
 <p id="description">This project focuses on analyzing and visualizing key business KPIs for the hospitality industry. The dataset includes hotel bookings rooms and other related dimensions which were cleaned transformed and visualized to build an interactive Power BI dashboard.</p>
 
 <h2>🎯 Project Objective </h2>
-The goal of this project is to:
+The goal of this project is to:-
 
 * Analyze hotel performance across multiple KPIs.
 
